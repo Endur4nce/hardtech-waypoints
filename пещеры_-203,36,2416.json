@@ -1,0 +1,17 @@
+{
+  "id": "пещеры_-203,36,2416",
+  "name": "пещеры",
+  "icon": "waypoint-normal.png",
+  "x": -203,
+  "y": 36,
+  "z": 2416,
+  "r": 254,
+  "g": 180,
+  "b": 138,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

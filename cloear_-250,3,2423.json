@@ -1,0 +1,17 @@
+{
+  "id": "cloear_-250,3,2423",
+  "name": "cloear",
+  "icon": "waypoint-normal.png",
+  "x": -250,
+  "y": 3,
+  "z": 2423,
+  "r": 57,
+  "g": 0,
+  "b": 115,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
