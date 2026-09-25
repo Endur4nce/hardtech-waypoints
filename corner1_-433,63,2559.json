@@ -1,0 +1,17 @@
+{
+  "id": "corner1_-433,63,2559",
+  "name": "corner1",
+  "icon": "waypoint-normal.png",
+  "x": -433,
+  "y": 63,
+  "z": 2559,
+  "r": 47,
+  "g": 134,
+  "b": 196,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
