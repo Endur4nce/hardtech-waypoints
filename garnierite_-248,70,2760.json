@@ -1,0 +1,17 @@
+{
+  "id": "garnierite_-248,70,2760",
+  "name": "garnierite",
+  "icon": "waypoint-normal.png",
+  "x": -248,
+  "y": 70,
+  "z": 2760,
+  "r": 242,
+  "g": 60,
+  "b": 65,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "lignite coal_-248,83,2616",
+  "name": "lignite coal",
+  "icon": "waypoint-normal.png",
+  "x": -248,
+  "y": 83,
+  "z": 2616,
+  "r": 161,
+  "g": 17,
+  "b": 140,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
