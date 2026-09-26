@@ -1,0 +1,17 @@
+{
+  "id": "copper_-584,10,2952",
+  "name": "copper",
+  "icon": "waypoint-normal.png",
+  "x": -584,
+  "y": 10,
+  "z": 2952,
+  "r": 11,
+  "g": 32,
+  "b": 128,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

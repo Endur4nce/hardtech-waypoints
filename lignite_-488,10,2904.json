@@ -1,0 +1,17 @@
+{
+  "id": "lignite_-488,10,2904",
+  "name": "lignite",
+  "icon": "waypoint-normal.png",
+  "x": -488,
+  "y": 10,
+  "z": 2904,
+  "r": 185,
+  "g": 95,
+  "b": 89,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

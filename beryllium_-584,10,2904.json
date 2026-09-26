@@ -1,0 +1,17 @@
+{
+  "id": "beryllium_-584,10,2904",
+  "name": "beryllium",
+  "icon": "waypoint-normal.png",
+  "x": -584,
+  "y": 10,
+  "z": 2904,
+  "r": 16,
+  "g": 252,
+  "b": 206,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

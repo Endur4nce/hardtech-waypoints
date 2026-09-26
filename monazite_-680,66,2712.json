@@ -1,0 +1,17 @@
+{
+  "id": "monazite_-680,66,2712",
+  "name": "monazite",
+  "icon": "waypoint-normal.png",
+  "x": -680,
+  "y": 66,
+  "z": 2712,
+  "r": 214,
+  "g": 181,
+  "b": 146,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
