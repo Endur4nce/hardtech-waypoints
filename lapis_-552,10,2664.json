@@ -1,0 +1,17 @@
+{
+  "id": "lapis_-552,10,2664",
+  "name": "lapis",
+  "icon": "waypoint-normal.png",
+  "x": -552,
+  "y": 10,
+  "z": 2664,
+  "r": 102,
+  "g": 122,
+  "b": 80,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

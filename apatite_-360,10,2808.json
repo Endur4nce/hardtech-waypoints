@@ -1,0 +1,17 @@
+{
+  "id": "apatite_-360,10,2808",
+  "name": "apatite",
+  "icon": "waypoint-normal.png",
+  "x": -360,
+  "y": 10,
+  "z": 2808,
+  "r": 158,
+  "g": 163,
+  "b": 69,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "oilsands_-249,44,2514",
+  "name": "oilsands",
+  "icon": "waypoint-normal.png",
+  "x": -249,
+  "y": 44,
+  "z": 2514,
+  "r": 82,
+  "g": 222,
+  "b": 90,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
