@@ -1,0 +1,17 @@
+{
+  "id": "Lapis_-696,41,2952",
+  "name": "Lapis",
+  "icon": "waypoint-normal.png",
+  "x": -696,
+  "y": 41,
+  "z": 2952,
+  "r": 112,
+  "g": 189,
+  "b": 234,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

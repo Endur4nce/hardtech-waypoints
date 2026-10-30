@@ -1,0 +1,17 @@
+{
+  "id": "Salts_-26,58,2710",
+  "name": "Salts",
+  "icon": "waypoint-normal.png",
+  "x": -26,
+  "y": 58,
+  "z": 2710,
+  "r": 183,
+  "g": 12,
+  "b": 125,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
